@@ -1,3 +1,3 @@
 # Demo
 This is my first repository<br>
-author - Dhanashri Pradhan
+Author - Dhanashri Pradhan
